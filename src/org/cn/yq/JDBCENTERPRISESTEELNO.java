@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 企业钢码编号（唯一约束，与《气瓶标签基本信息管理表》同,好像重复了）
- * @author Administrator
+ * @author yq
  *
  */
 public class JDBCENTERPRISESTEELNO {
